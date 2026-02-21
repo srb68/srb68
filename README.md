@@ -1,4 +1,4 @@
-## Hello, I am Sneh! 👋
+## Hello, I am Sneh! A Computer Science Student 👋
 
 
 # 💻 Tech Stack:
